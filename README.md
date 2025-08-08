@@ -21,5 +21,5 @@ This repository contains two Python scripts for extracting and repacking the in-
   - Prevents pointer corruption and out-of-space errors with checks.
 
 ---
-**Warning**
+- **Warning**
 The font of this game for ascii letters is almost illegible, it will be necessary to change the font for a translation
