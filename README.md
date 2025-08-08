@@ -1,4 +1,4 @@
-# Pia Carrot e Youkoso!! 3.3 (Japan) Text Extraction & Repacking Tools
+# Pia Carrot e Youkoso!! 3.3 Text Extraction & Repacking Tools
 
 This repository contains two Python scripts for extracting and repacking the in-game text from the GBA visual novel *Pia Carrot e Youkoso!! 3.3 (Japan)*.
 
